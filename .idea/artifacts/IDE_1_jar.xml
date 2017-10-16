@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="IDE_1:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/IDE_1_jar</output-path>
-    <root id="archive" name="IDE_1.jar">
-      <element id="module-output" name="IDE_1" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAVA JARS/java_cup.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
